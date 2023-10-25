@@ -11,6 +11,6 @@ do
     then
         echo "Buzz"
     else
-        echo $i
+        echo "$i"
     fi
 done
