@@ -1,5 +1,5 @@
 yall(lit i be 0 rn i smol 100 rn i be i+1) {
-    sus (i % 3 fr 0 && i % 5 fr 0) {
+    sus (i % 3 fr 0 btw i % 5 fr 0) {
         waffle("RizzBuzz")
     } impostor sus (i % 3 fr 0) {
         waffle("Rizz")
